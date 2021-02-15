@@ -1,0 +1,6 @@
+F:\c sharp\lab_4\lab_4\bin\Debug\lab_4.exe.config
+F:\c sharp\lab_4\lab_4\bin\Debug\lab_4.exe
+F:\c sharp\lab_4\lab_4\bin\Debug\lab_4.pdb
+F:\c sharp\lab_4\lab_4\obj\Debug\lab_4.csprojResolveAssemblyReference.cache
+F:\c sharp\lab_4\lab_4\obj\Debug\lab_4.exe
+F:\c sharp\lab_4\lab_4\obj\Debug\lab_4.pdb
