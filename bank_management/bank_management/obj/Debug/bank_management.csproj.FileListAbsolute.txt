@@ -1,0 +1,6 @@
+F:\c sharp\bank_management\bank_management\bin\Debug\bank_management.exe.config
+F:\c sharp\bank_management\bank_management\bin\Debug\bank_management.exe
+F:\c sharp\bank_management\bank_management\bin\Debug\bank_management.pdb
+F:\c sharp\bank_management\bank_management\obj\Debug\bank_management.csprojResolveAssemblyReference.cache
+F:\c sharp\bank_management\bank_management\obj\Debug\bank_management.exe
+F:\c sharp\bank_management\bank_management\obj\Debug\bank_management.pdb
